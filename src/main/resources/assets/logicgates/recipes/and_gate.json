@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " t ",
+    "tmt",
+    "sss"
+  ],
+  "key": {
+    "t": { "item": "minecraft:redstone_torch" },
+    "m": { "item": "minecraft:lapis_lazuli" },
+    "s": { "item": "minecraft:stone" }
+  },
+  "result": {
+    "item": "logicgates:and_gate",
+    "count": 1
+  }
+}

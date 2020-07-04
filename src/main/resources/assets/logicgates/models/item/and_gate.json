@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "voidcity:items/logicgate_base_temp"
+  }
+}

@@ -1,6 +1,7 @@
-tile.logicgate.and.name=AND Gate
-tile.logicgate.or.name=OR Gate
-tile.logicgate.nand.name=NAND Gate
-tile.logicgate.nor.name=NOR Gate
-tile.logicgate.xor.name=XOR Gate
-tile.logicgate.xnor.name=XNOR Gate
+tile.not_gate.name=NOT Gate
+tile.and_gate.name=AND Gate
+tile.or_gate.name=OR Gate
+tile.nand_gate.name=NAND Gate
+tile.nor_gate.name=NOR Gate
+tile.xor_gate.name=XOR (Not Equal) Gate
+tile.xnor_gate.name=XNOR (Equal) Gate
