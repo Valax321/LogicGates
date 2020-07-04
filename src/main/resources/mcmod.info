@@ -1,0 +1,16 @@
+[
+{
+  "modid": "com.valax321.logicgates",
+  "name": "LogicGates",
+  "description": "Redstone logic gates.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Valax321/LogicGates",
+  "updateUrl": "",
+  "authorList": ["Valax321"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

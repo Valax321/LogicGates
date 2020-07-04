@@ -1,0 +1,6 @@
+tile.logicgate.and.name=AND Gate
+tile.logicgate.or.name=OR Gate
+tile.logicgate.nand.name=NAND Gate
+tile.logicgate.nor.name=NOR Gate
+tile.logicgate.xor.name=XOR Gate
+tile.logicgate.xnor.name=XNOR Gate
